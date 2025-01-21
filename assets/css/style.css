@@ -125,6 +125,11 @@ main {
     color: #ffffff;
 }
 
+#benefits > p {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
