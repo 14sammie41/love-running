@@ -301,8 +301,8 @@ main {
 
     /* Sign-up form */
     #signup {
-        background-position: cover;
-        position: left;
+        background-position: center;
+        position: relative;
     }
     #signup-form {
         position: absolute;
